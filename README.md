@@ -1,5 +1,5 @@
 # Fake news detection using NLP
-## Dataset used: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
+### Dataset used: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 ## Introduction: 
 Fake news distributions at an unprecedented rate cause substantial societal challenges within the modern digital environment. The dissemination of deceptive and completely fabricated news material affects how the public views matters along with election results and public health outcomes and other areas. Manual human detection of fake news proves both difficult and inefficient when considering the daily massive online information distribution. The project establishes a goal to create automated platform for fake news detection through Natural Language Processing (NLP) methods that determines whether news articles represent real or fabricated content.
 ## Problem Statement:
